@@ -30,13 +30,13 @@ elementThree
 4. What is the css selector of the fourth element?
 
 ```
-<div>
+div
 ```
 
 5. What is the code you use to keep the blue box within the purple?
 
 ```
-Your answer here
+box-sizing : border-box
 ```
 
 > hint: you should apply box-sizing property to the `.child` class. Make the changes on the developer's tool to see immediate UI change.
